@@ -2,8 +2,8 @@
 - 👀 I’m studying Mechanical Engineering at the Kwame Nkrumah University of Science and Technology, Ghana.
 - 🌱 I’m currently a Software Engineer sharing my journeys and learnings in tech.
 - 💞️ I’m looking to collaborate on various projects that look to address and solve real problems.
-- 👨🏾‍💻 Check out my portfolio: (portfolio link)
-- 📫 How to reach me : Instagram(@__victi.mm) and Twitter(@thetechvictim)
+- 👨🏾‍💻 Check out my portfolio: [Portfolio Website](https://personal-portfolio-nu-seven-81.vercel.app/)
+- 📫 How to reach me : [Instagram](https://www.instagram.com/__victi.mm/) and [Twitter](https://x.com/thetechvictim)
 - ⚡ Fun fact: I love Music.
 
 <!---
