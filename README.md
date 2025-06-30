@@ -1,5 +1,5 @@
 # 💫 About Me:
- 👋 Hi, I’m Aaron!<br> 👀 I’m studying Mechanical Engineering at the Kwame Nkrumah University of Science and Technology, Ghana.<br> 🌱 I’m currently a Software Engineer sharing my journeys and learnings in tech.<br> 💞️ I’m looking to collaborate on various projects that look to address and solve real problems.<br> 👨🏾‍💻 Check out my portfolio: [Portfolio Website](https://personal-portfolio-nu-seven-81.vercel.app/)<br>⚡ Fun fact: I love Music.
+ 👋 Hi, I’m Aaron!<br> 👀 I’m studying Mechanical Engineering at the Kwame Nkrumah University of Science and Technology, Ghana.<br> 🌱 I’m currently a Software Engineer sharing my journeys and learnings in tech.<br> 💞️ I’m looking to collaborate on various projects that look to address and solve real problems.<br> 👨🏾‍💻 Check out my portfolio: [Portfolio Website](https://portfolio-main-weld-seven.vercel.app/)<br>⚡ Fun fact: I love Music.
 
 
 ## 🌐 Socials:
